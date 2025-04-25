@@ -66,9 +66,9 @@ A repository ("repo") is like a project folder that contains all your files and 
 
 ### Issues: Task Management and Problem Tracking
 
-GitHub Issues are perfect for:
-- Tracking site monitoring tasks
-- Documenting biodiversity observations
+GitHub Issues can be used for these tasks for instance: 
+- Gathering user feedback
+- Gather requirements 
 - Managing data collection needs
 - Reporting problems with data or processes
 
@@ -91,7 +91,6 @@ Issues can be:
 GitHub Discussions are ideal for:
 - General project conversations
 - Questions about methodology
-- Sharing observations
 - Co-design sessions
 
 **Starting a Discussion:**
